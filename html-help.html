@@ -2,6 +2,7 @@
 <html>
   <head>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
     <title>HTML help</title>
@@ -12,8 +13,14 @@
 
       <p>This is a very special page. If you click somewhere, it will tell you what type of HTML element you clicked on.</p>
 
-      <p>Look at this cute walrus!</p>
-      <img src="img/walrus.jpg">
+      <div class="initially-showing">
+        <p>Let's play peek-a-boo. <span class="clickable">Click here</span> to see the surprise!</p>
+      </div>
+
+      <div class="initially-hidden">
+        <p>Look at this cute walrus! But ot make it go away <span class="clickable">Click here</span></p>
+        <img src="img/walrus.jpg">
+      </div>
     </div>
   </body>
 </html>

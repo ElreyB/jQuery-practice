@@ -1,8 +1,8 @@
 # Learning jQuery
 
-#### jQuery Exercise for Epicodus, 08.07.2017
+#### jQuery Exercise for Epicodus, 08.08.2017
 
-#### By Elrey Belmonti
+#### By Elrey Belmonti and Mitch Long
 
 ## Description
 
@@ -10,7 +10,9 @@ This page is my intro practice for jQuery
 
 ## Setup/Installation Requirements
 
-Clone this repo.
+Clone this repo. by:
+Going to your Desktop directory
+Type: git clone https://github.com/ElreyB/jQuery-practice.git
 
 ## Known Bugs
 
@@ -28,4 +30,4 @@ jQuery
 
 ### License
 
-Copyright (c) 2017 Elrey Belmonti
+Copyright (c) 2017 Elrey Belmonti and Mitch Long
